@@ -1,0 +1,45 @@
+# 编译产物
+**/build/
+**/bin/
+**/*.o
+**/*.obj
+**/*.exe
+**/*.out
+**/*.app
+**/*.dll
+**/*.so
+**/*.dylib
+
+# 可执行文件（没有扩展名的二进制文件）
+**/sorting/sort
+**/linked_list/linked_list
+**/binary_tree/binary_tree
+**/string/string_*
+
+# CMake生成的文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+# macOS特有文件
+.DS_Store
+**/*.dSYM/
+**/.DS_Store
+
+# 编辑器/IDE生成的文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ccls缓存文件
+.ccls-cache/
+**/.ccls-cache/
+
+# 临时文件
+*.log
+*.tmp
