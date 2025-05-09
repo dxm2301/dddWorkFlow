@@ -5,11 +5,11 @@
 ## Personal Information
 - **Phone:** (+86) 186-4285-6913
 - **Email:** 1695963186@qq.com
-- **Job Objective:** AI Operator Development Engineer
+- **Job Objective:** AI Kernel Development Engineer
 
 ## Work Experience
 
-### Operator Compiler Engineer | Li Auto Inc. | Apr 2023 - Present
+### Senior Software Engineer | Li Auto Inc. | Apr 2023 - Present
 - Participated in the full-cycle development of a self-developed NPU chip from design to successful tape-out and bring-up, **responsible for critical operator development and performance optimization**
 - **Built an MLIR-based operator compilation framework**, implementing operator fusion, splitting, and parallel optimization, completing the conversion from high-level IR to hardware-specific IR
 - **Designed compilation optimization solutions for convolution and sampling operators**, reducing hardware awareness barriers and improving team development efficiency
